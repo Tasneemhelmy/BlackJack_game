@@ -43,6 +43,7 @@ function rendGame() {
         cardEl.textContent += cards[i]+" ";
     }
     if (sum <= 20) {
+        hasBlackJack = false;
         message = "Do you want to draw a new card?"
     } else if (sum === 21) {
         message = "You've got Blackjack!"
