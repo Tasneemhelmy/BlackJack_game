@@ -3,7 +3,7 @@ link the game=> https://tasneemhelmy.github.io/BlackJack_game/
 
 
 
- Rule of game
+ Rules of game
 
 
  
